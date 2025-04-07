@@ -1,0 +1,15 @@
+/home/butters/code_repo/CodeLocker/obj/Debug/net8.0/CodeLocker.GeneratedMSBuildEditorConfig.editorconfig
+/home/butters/code_repo/CodeLocker/obj/Debug/net8.0/CodeLocker.AssemblyInfoInputs.cache
+/home/butters/code_repo/CodeLocker/obj/Debug/net8.0/CodeLocker.AssemblyInfo.cs
+/home/butters/code_repo/CodeLocker/obj/Debug/net8.0/CodeLocker.csproj.CoreCompileInputs.cache
+/home/butters/code_repo/CodeLocker/obj/Debug/net8.0/CodeLocker.sourcelink.json
+/home/butters/code_repo/CodeLocker/bin/Debug/net8.0/CodeLocker
+/home/butters/code_repo/CodeLocker/bin/Debug/net8.0/CodeLocker.deps.json
+/home/butters/code_repo/CodeLocker/bin/Debug/net8.0/CodeLocker.runtimeconfig.json
+/home/butters/code_repo/CodeLocker/bin/Debug/net8.0/CodeLocker.dll
+/home/butters/code_repo/CodeLocker/bin/Debug/net8.0/CodeLocker.pdb
+/home/butters/code_repo/CodeLocker/obj/Debug/net8.0/CodeLocker.dll
+/home/butters/code_repo/CodeLocker/obj/Debug/net8.0/refint/CodeLocker.dll
+/home/butters/code_repo/CodeLocker/obj/Debug/net8.0/CodeLocker.pdb
+/home/butters/code_repo/CodeLocker/obj/Debug/net8.0/CodeLocker.genruntimeconfig.cache
+/home/butters/code_repo/CodeLocker/obj/Debug/net8.0/ref/CodeLocker.dll
