@@ -1,0 +1,2 @@
+dotnet ef migrations add InitialCreate3
+dotnet ef database update
