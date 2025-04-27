@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeLocker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67b26924ba2a036616dda477e584910b9154a741")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fdee0885d50fe39184600a2e8dbdd0ca18e2893")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeLocker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeLocker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
